@@ -1,0 +1,17 @@
+.Weather ul {
+    text-align: left;
+    list-style: none;
+}
+
+.Weather .description {
+    text-transform: capitalize;
+}
+
+.Weather .location {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.spinner {
+    font-size: 40px;
+}
