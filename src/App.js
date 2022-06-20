@@ -14,6 +14,23 @@ function App() {
           </div>
         </div>
       </div>
+
+      <div class="container mt-4">
+        <p>
+          {" "}
+          <span>
+            <a
+              class="githublink"
+              href="https://github.com/JessieZevaka/weather-app-react"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open source code
+            </a>
+          </span>{" "}
+          by Jessie Zevaka
+        </p>
+      </div>
     </body>
   );
 }
